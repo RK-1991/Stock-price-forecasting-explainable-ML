@@ -23,6 +23,12 @@ The goal is not just prediction accuracy, but interpretability — understanding
 - Baseline forecasting
 - Machine Learning regression models
 - Explainable AI (SHAP)
+- ## Deep Learning: LSTM Model
+- Model predicts stock prices using sequences of past prices (10-day window)
+- Architecture: 1 LSTM layer (50 units) + Dense output
+- Evaluated using RMSE and MAE
+- Visuals: Plot comparing actual vs predicted prices
+
 
 ## 🛠️ Tech Stack
 - Python
