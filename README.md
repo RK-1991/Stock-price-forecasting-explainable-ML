@@ -39,3 +39,13 @@ The goal is not just prediction accuracy, but interpretability — understanding
 - Matplotlib / Plotly
 
 ## 📁 Project Structure
+## Interactive Streamlit App
+
+- Predict stock prices interactively
+- Users can select stock symbol and date range
+- Visualizes historical stock prices
+- Run locally with:
+  ```bash
+  pip install -r requirements.txt
+  streamlit run app/app.py
+
